@@ -1,0 +1,1 @@
+#Добавить функцию page_post_upload
